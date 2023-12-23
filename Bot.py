@@ -4,7 +4,7 @@ import time
 from tkinter import *
 import pyautogui
 
-class IveyLearnBot(object):
+class IveyLearnBot(object): 
     
     def LearnLogIn(self):
 
